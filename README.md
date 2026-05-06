@@ -1,3 +1,5 @@
+<img width="3928" height="1306" alt="Image" src="https://github.com/user-attachments/assets/621cd6ea-c2f4-4aec-a05c-389af45f9c44" />
+
 # Home Enterprise WiFi Deployment using Aruba AP-207
 
 Description:
